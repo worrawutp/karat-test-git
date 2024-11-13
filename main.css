@@ -6,4 +6,7 @@ button {
 }
 h2 {
   color: blue;
+  span{
+    color:aquamarine;
+  }
 }
